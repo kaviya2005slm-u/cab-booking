@@ -7,8 +7,8 @@
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="HandheldFriendly" content="True">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black">
-		<meta name="description" content="Taxi Grabber - HTML Template">
-		<meta name="author" content="Coffeecream Themes, info@coffeecream.eu">
+		<meta name="description" content="Taxi Captains - HTML Template">
+		<meta name="Kaviya" content="Coffeecream Themes, info@coffeecream.eu">
 		<title>Taxi Grabber - HTML Template</title>
 		<link rel="shortcut icon" href="images/favicon.png">
 
@@ -38,7 +38,7 @@
             </div>
             <div id="nav-bar" class="nav-bar">
                 <div class="container">
-                    <a href="index.html" class="logo"><img src="images/logo.svg" alt="Taxi Grabber - HTML Template" /></a>
+                    <a href="index.html" class="logo"><img src="images/logo.svg" alt="Taxi Captains - HTML Template" /></a>
                     <button id="nav-trigger" class="nav-trigger ion-android-menu"></button>
                     <nav class="main-nav">
                         <ul>
